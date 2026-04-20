@@ -1,9 +1,10 @@
 # Data Science Lab Assignment (MA2311020010010)
 
 This repository contains solutions for Questions from Lab Assignment 
+---
 Module 1:
 Question 1
-
+---
 Module 2:
 Question 1
 Question 2
